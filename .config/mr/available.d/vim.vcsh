@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/vim.git]
+checkout = vcsh clone git@github.com:dalyc/vim.git vim
+
